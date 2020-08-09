@@ -1,5 +1,7 @@
 # README
 
+![fleamarket_sample_72b_ER図](https://user-images.githubusercontent.com/62200482/89726286-ca561000-da53-11ea-904d-0fd05098743e.png)
+
 ## users
 |Column|Type|Options|
 |------|----|-------|
